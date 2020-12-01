@@ -1,0 +1,55 @@
+body{
+    margin: auto;
+    background-color: 15202B;
+ 
+ 
+    
+}
+.container{
+    color: white;
+    width: 600px;
+    height: 100vh;
+    margin: auto;
+    background-color: ;
+    border: 0.5px solid;
+    border-color: 38444D;
+    margin-top: 0;
+    font-family: serif;
+    font-size: 15px;
+}
+.txt{
+    background-color: 15202B;
+}
+.a{
+    color: white;
+}
+
+
+.txt input[type="submit"]:hover {
+    background:  #1DA1F2;
+}
+.containerhome{
+        
+    color: white;
+    width: 600px;
+    height: 80vh;
+    margin: auto;
+    border: 0.5px solid;
+    border-color: 38444D;
+    margin-top: 0;
+    font-family: serif;
+    font-size: 15px;
+    left: 30%;
+}
+.containerhome p{
+    
+    color: white;
+}
+.containerhome a{
+    
+    color:  #1DA1F2;
+}
+.box1{
+    width: 300px;
+    left: 50%;
+}
